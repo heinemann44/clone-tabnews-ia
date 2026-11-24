@@ -21,8 +21,8 @@ export default async function Home() {
       <Confetti />
       <h1 style={styles.title}>🚧 Em construção</h1>
       <p style={styles.text}>
-        Este é um clone do TabNews, desenvolvido para o curso.dev com o apoio
-        de agentes de IA. Enquanto ele não fica pronto, que tal conhecer o
+        Este é um clone do TabNews, desenvolvido para o curso.dev com o apoio de
+        agentes de IA. Enquanto ele não fica pronto, que tal conhecer o
         original?
       </p>
       {postsCount && (

@@ -20,6 +20,9 @@ Clone do TabNews desenvolvido para o curso.dev com o apoio de agentes de IA.
 - `npm run dev`: inicia o servidor de desenvolvimento.
 - `npm run build`: gera o build de produção.
 - `npm start`: serve o build de produção.
+- `npm run lint`: verifica o código com o ESLint.
+- `npm run format`: formata os arquivos com o Prettier.
+- `npm run format:check`: verifica a formatação sem alterar os arquivos.
 
 ## Fluxo de trabalho
 
